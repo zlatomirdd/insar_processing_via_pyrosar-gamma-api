@@ -5,7 +5,7 @@ This script was elaborated by me (Zlatomir Dimitrov, from Space Research and Tec
 This script utilizes the extensive InSAR processing software of - GAMMA(c) - https://www.gamma-rs.ch/.
 This script is based on the extensive Python based framework of PyroSAR, and embedded GAMMA-API - https://pyrosar.readthedocs.io/en/latest/.
 
-Only MODULE is uploaded, which contains most of the functions called from the main Python script. Thus, this Module is mostly useful for using of professionalists in InSAR processing, who willing to include it, or develop their own Python script by using PyroSAR GAMMA-API.
+Only MODULE is uploaded, which contains most of the functions called from the main Python script. Thus, this Module would be mostly useful by professionalists in InSAR processing, who are willing to include it / develop their own Python script, by utilizing the PyroSAR GAMMA-API.
 
 Please, share and redistribute with kind regards from me.
 
